@@ -1,4 +1,4 @@
-# Hi, I'm Vafa 👋
+# Hi, I'm Vafa 
 
 **Computer Engineering Student • Python Developer • Photography Enthusiast**
 
@@ -73,8 +73,8 @@ The application will analyze students' photos and evaluate technical criteria su
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vafabara&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vafabara&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vafabara&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vafabara&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---

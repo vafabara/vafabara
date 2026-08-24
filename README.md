@@ -42,6 +42,16 @@ A desktop task management application built with Python.
 
 ---
 
+## 📸 Smart Photography Grading Assistant
+
+A future evolution of the **Image Metadata Viewer** focused on photography education.
+
+The application will analyze students' photos and evaluate technical criteria such as **ISO, shutter speed, aperture, and other EXIF metadata** based on rules defined by the instructor.
+
+> **Goal:** Turn technical photography assignments into a faster, more consistent, and data-driven grading workflow.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -55,6 +65,8 @@ A desktop task management application built with Python.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge\&logo=anthropic\&logoColor=white)
 
 ---
 
@@ -84,23 +96,10 @@ A desktop task management application built with Python.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vafabara)
 
+**Telegram:** @vafa_bara
+
 ---
 
 <p align="center">
   <i>Building things, learning things, taking photos.</i>
 </p>
-
-<!--
-**vafabara/vafabara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -1,8 +1,8 @@
-# Hi, I'm Vafa 
+# Hi, I'm Vafa 👋
 
-**Computer Engineering Student • Python Developer • Photography Enthusiast**
+**Computer Engineering Student • Junior Python Developer • Photography Enthusiast**
 
-I'm currently focused on improving my Python skills and building real-world projects while working toward **Artificial Intelligence & Machine Learning**.
+I'm currently focused on building real-world Python projects while working toward **Artificial Intelligence & Machine Learning**.
 
 ```text
 Python → Data Analysis → Machine Learning → AI
@@ -13,7 +13,7 @@ Python → Data Analysis → Machine Learning → AI
 ## 🧑‍💻 About Me
 
 * 🎓 Computer Engineering student
-* 🐍 Currently learning Python
+* 🐍 Junior Python Developer
 * 🤖 Interested in AI & Machine Learning
 * 📷 Photographer & photography enthusiast
 * 🎸 Guitar player
@@ -24,31 +24,15 @@ Python → Data Analysis → Machine Learning → AI
 
 ## 🚀 What I'm Working On
 
-### 📷 Image Metadata Viewer
+### 📷 PhotoGrade
 
-A lightweight Python desktop application for viewing image information and EXIF metadata.
+A Python desktop application designed to help photography instructors **evaluate students' photos based on technical criteria and EXIF metadata**.
 
-**Python · Pillow · piexif · CustomTkinter**
+The project uses customizable rules to analyze metadata such as **ISO, shutter speed, aperture, focal length, and other technical properties**.
 
-> Future direction: **Smart Photography Grading Assistant**
+**Python · Pillow · piexif · CustomTkinter · SQLite · Pandas**
 
----
-
-### 📝 To-Do List
-
-A desktop task management application built with Python.
-
-**Python · SQLite · CustomTkinter**
-
----
-
-## 📸 Smart Photography Grading Assistant
-
-A future evolution of the **Image Metadata Viewer** focused on photography education.
-
-The application will analyze students' photos and evaluate technical criteria such as **ISO, shutter speed, aperture, and other EXIF metadata** based on rules defined by the instructor.
-
-> **Goal:** Turn technical photography assignments into a faster, more consistent, and data-driven grading workflow.
+> **Goal:** Build a smart, local-first photography grading assistant that makes technical evaluation faster and more consistent.
 
 ---
 
@@ -70,28 +54,6 @@ The application will analyze students' photos and evaluate technical criteria su
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vafabara&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vafabara&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🎯 Current Goals
-
-* [x] Build real Python projects
-* [x] Learn Git & GitHub
-* [x] Work with SQLite
-* [x] Build desktop applications
-* [ ] Master Pandas & NumPy
-* [ ] Learn Machine Learning
-* [ ] Build AI projects
-* [ ] Develop a strong software engineering portfolio
-
----
-
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vafabara)
@@ -100,6 +62,4 @@ The application will analyze students' photos and evaluate technical criteria su
 
 ---
 
-<p align="center">
-  <i>Building things, learning things, taking photos.</i>
-</p>
+*Building things, learning things, taking photos.*

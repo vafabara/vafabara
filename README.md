@@ -1,6 +1,6 @@
 # Hi, I'm Vafa 👋
 
-**Computer Engineering Student • Junior Python Developer • Photography Enthusiast**
+**Computer Engineering Student • Junior Python Developer • Photographer**
 
 I'm currently focused on building real-world Python projects while working toward **Artificial Intelligence & Machine Learning**.
 
@@ -16,8 +16,7 @@ Python → Data Analysis → Machine Learning → AI
 * 🐍 Junior Python Developer
 * 🤖 Interested in AI & Machine Learning
 * 📷 Photographer & photography enthusiast
-* 🎸 Guitar player
-* 🎮 Into indie games & anime
+* 🎨 Interested in Graphic Design
 * 💻 Interested in technology and software development
 
 ---
@@ -36,6 +35,16 @@ The project uses customizable rules to analyze metadata such as **ISO, shutter s
 
 ---
 
+## 🎨 Photography & Design
+
+I also work on **photography and graphic design projects**, including street photography, product photography, and visual content created for businesses.
+
+📸 **Photography Portfolio:** [Behance](https://www.behance.net/vafabara)
+
+My Behance portfolio features selected photography projects, including **street photography, product photography for camera stores, café photography, and jewelry photography**.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -49,6 +58,8 @@ The project uses customizable rules to analyze metadata such as **ISO, shutter s
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge\&logo=vim\&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge\&logo=anthropic\&logoColor=white)
 
@@ -56,9 +67,11 @@ The project uses customizable rules to analyze metadata such as **ISO, shutter s
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vafabara)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=git\&logoColor=white)](https://github.com/vafabara)
 
 **Telegram:** @vafa_bara
+
+**Photography:** [Behance](https://www.behance.net/vafabara)
 
 ---
 

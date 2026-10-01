@@ -2,8 +2,6 @@
 
 **Computer Engineering Student • Junior Python Developer • Photographer**
 
-I'm currently focused on building real-world Python projects while working toward **Artificial Intelligence & Machine Learning**.
-
 ```text
 Python → Data Analysis → Machine Learning → AI
 ```
@@ -37,7 +35,9 @@ A Python desktop application designed to help photography instructors **evaluate
 
 I also work on **photography and graphic design projects**, including street photography, product photography, and visual content created for businesses.
 
-📸 Photography Portfolio
+### 📸 Photography Portfolio
+
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge\&logo=behance\&logoColor=white)](https://www.behance.net/vafabara)
 
 ---
 
@@ -50,7 +50,7 @@ I also work on **photography and graphic design projects**, including street pho
 ### Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=git\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
@@ -63,8 +63,8 @@ I also work on **photography and graphic design projects**, including street pho
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=git\&logoColor=white)](https://github.com/vafabara)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vafabara)
+
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge\&logo=behance\&logoColor=white)](https://www.behance.net/vafabara)
 
 **Telegram:** @vafa_bara
-
-**Photography:** [Behance](https://www.behance.net/vafabara)

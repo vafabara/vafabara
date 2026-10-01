@@ -37,7 +37,7 @@ I also work on **photography and graphic design projects**, including street pho
 
 ### 📸 Photography Portfolio
 
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge\&logo=behance\&logoColor=white)](https://www.behance.net/vafabara)
+👉 **[Click here to view my Behance portfolio](https://www.behance.net/vafabara)**
 
 ---
 

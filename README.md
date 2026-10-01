@@ -27,8 +27,6 @@ Python → Data Analysis → Machine Learning → AI
 
 A Python desktop application designed to help photography instructors **evaluate students' photos based on technical criteria and EXIF metadata**.
 
-The project uses customizable rules to analyze metadata such as **ISO, shutter speed, aperture, focal length, and other technical properties**.
-
 **Python · Pillow · piexif · CustomTkinter · SQLite · Pandas**
 
 > **Goal:** Build a smart, local-first photography grading assistant that makes technical evaluation faster and more consistent.
@@ -40,8 +38,6 @@ The project uses customizable rules to analyze metadata such as **ISO, shutter s
 I also work on **photography and graphic design projects**, including street photography, product photography, and visual content created for businesses.
 
 📸 **Photography Portfolio:** [Behance](https://www.behance.net/vafabara)
-
-My Behance portfolio features selected photography projects, including **street photography, product photography for camera stores, café photography, and jewelry photography**.
 
 ---
 
@@ -72,7 +68,3 @@ My Behance portfolio features selected photography projects, including **street 
 **Telegram:** @vafa_bara
 
 **Photography:** [Behance](https://www.behance.net/vafabara)
-
----
-
-*Building things, learning things, taking photos.*

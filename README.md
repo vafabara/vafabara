@@ -37,7 +37,7 @@ A Python desktop application designed to help photography instructors **evaluate
 
 I also work on **photography and graphic design projects**, including street photography, product photography, and visual content created for businesses.
 
-📸 **Photography Portfolio:** [Behance](https://www.behance.net/vafabara)
+📸 Photography Portfolio
 
 ---
 

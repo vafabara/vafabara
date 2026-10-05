@@ -10,13 +10,9 @@ Python → Data Analysis → Machine Learning → AI
 
 ## 🧑‍💻 About Me
 
-* 🎓 Computer Engineering student
 * 🐍 Junior Python Developer
 * 🤖 Interested in AI & Machine Learning
-* 📷 Photographer & photography enthusiast
-* 🎨 Interested in Graphic Design
-* 💻 Interested in technology and software development
-
+* 📷 Photographer & Graphic Designer
 ---
 
 ## 🚀 What I'm Working On

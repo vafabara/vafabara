@@ -10,12 +10,17 @@ Python → Data Analysis → Machine Learning → AI
 
 ## 🧑‍💻 About Me
 
-* 🐍 Junior Python Developer
-* 🤖 Interested in AI & Machine Learning
-* 📷 Photographer & Graphic Designer
+- 🐍 Junior Python Developer
+- 🤖 Interested in AI & Machine Learning
+- 📷 Photographer & Graphic Designer
+
 ---
 
 ## 🚀 What I'm Working On
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 📷 PhotoGrade
 
@@ -23,7 +28,20 @@ A Python desktop application designed to help photography instructors **evaluate
 
 **Python · Pillow · piexif · CustomTkinter · SQLite · Pandas**
 
-> **Goal:** Build a smart, local-first photography grading assistant that makes technical evaluation faster and more consistent.
+> **v1.0.0 released** — First stable release.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Machine Learning Projects
+
+- [**Heart-Disease-Classification**](https://github.com/vafabara/Heart-Disease-Classification)
+- [**Tehran-House-Price-Regression**](https://github.com/vafabara/Tehran-House-Price-Regression)
+- *More projects coming soon...*
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -41,26 +59,26 @@ I also work on **photography and graphic design projects**, including street pho
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools & Technologies
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=git\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge\&logo=vim\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge\&logo=anthropic\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vafabara)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vafabara)
 
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge\&logo=behance\&logoColor=white)](https://www.behance.net/vafabara)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/vafabara)
 
 **Telegram:** @vafa_bara

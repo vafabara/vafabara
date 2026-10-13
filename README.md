@@ -22,7 +22,7 @@ Python → Data Analysis → Machine Learning → AI
 <tr>
 <td width="50%" valign="top">
 
-### 📷 PhotoGrade
+### 📷 [PhotoGrade](https://github.com/vafabara/Photography-Grading-Assistant)
 
 A Python desktop application designed to help photography instructors **evaluate students' photos based on technical criteria and EXIF metadata**.
 

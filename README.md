@@ -1,18 +1,19 @@
-# Hi, I'm Vafa 👋
+ <p align="center">
+  <img src="assets/banner.png" width="100%" alt="Vafa Bara - Developer and Photographer Banner">
+</p>
 
-**Computer Engineering Student • Junior Python Developer • Photographer**
-
-```text
-Python → Data Analysis → Machine Learning → AI
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Junior+Python+Developer;Computer+Engineering+Student;Machine+Learning+%26+AI+Enthusiast;Photographer+%26+Graphic+Designer" alt="Typing SVG">
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
 - 🐍 Junior Python Developer
-- 🤖 Interested in AI & Machine Learning
-- 📷 Photographer & Graphic Designer
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 📷 Photographer and Graphic Designer
+- 🛠️ Building Python applications and machine learning projects
 
 ---
 
@@ -24,25 +25,95 @@ Python → Data Analysis → Machine Learning → AI
 
 ### 📷 [PhotoGrade](https://github.com/vafabara/Photography-Grading-Assistant)
 
-A Python desktop application designed to help photography instructors **evaluate students' photos based on technical criteria and EXIF metadata**.
+A Python desktop application designed to help photography instructors **evaluate students' photos using technical criteria and EXIF metadata**.
 
-**Python · Pillow · piexif · CustomTkinter · SQLite · Pandas**
+**Tech:** Python · Pillow · piexif · CustomTkinter · SQLite · Pandas
 
-> **v1.0.0 released** — First stable release.
+> ✅ **v1.0.0 released** — First stable release.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 Machine Learning Projects
 
-- [**Heart-Disease-Classification**](https://github.com/vafabara/Heart-Disease-Classification)
-- [**Tehran-House-Price-Regression**](https://github.com/vafabara/Tehran-House-Price-Regression)
-- [**Customer-Segmentation-clustering**](https://github.com/vafabara/Customer-Segmentation-clustering)
-- *More projects coming soon...*
+- [**Heart Disease Classification**](https://github.com/vafabara/Heart-Disease-Classification)
+- [**Tehran House Price Regression**](https://github.com/vafabara/Tehran-House-Price-Regression)
+- [**Customer Segmentation**](https://github.com/vafabara/Customer-Segmentation-clustering)
+
+*More projects coming soon...*
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages & Development
+
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"><br><strong>Python</strong>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"><br><strong>Git</strong>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"><br><strong>GitHub</strong>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code"><br><strong>VS Code</strong>
+</td>
+</tr>
+</table>
+
+### Data Analysis & Machine Learning
+
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" alt="NumPy"><br><strong>NumPy</strong>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" alt="Pandas"><br><strong>Pandas</strong>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" alt="Matplotlib"><br><strong>Matplotlib</strong>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" alt="Scikit-learn"><br><strong>Scikit-learn</strong>
+</td>
+</tr>
+</table>
+
+**Concepts:** `Regression` `Classification` `Clustering` `Model Evaluation` `Data Preprocessing`
+
+### Application Development & Storage
+
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" alt="SQLite"><br><strong>SQLite</strong>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pillow/pillow-original.svg" width="45" alt="Pillow"><br><strong>Pillow</strong>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" alt="Jupyter"><br><strong>Jupyter</strong>
+</td>
+</tr>
+</table>
+
+**Additional Libraries:** `CustomTkinter` `piexif`
+
+### Design & Productivity
+
+<p>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
+</p>
 
 ---
 
@@ -52,34 +123,21 @@ I also work on **photography and graphic design projects**, including street pho
 
 ### 📸 Photography Portfolio
 
-👉 **[Click here to view my Behance portfolio](https://www.behance.net/vafabara)**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+👉 **[Explore my Behance portfolio](https://www.behance.net/vafabara)**
 
 ---
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vafabara)
+<p>
+  <a href="https://github.com/vafabara">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.behance.net/vafabara">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
+  </a>
+  <a href="https://t.me/vafa_bara">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
 
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/vafabara)
-
-**Telegram:** @vafa_bara

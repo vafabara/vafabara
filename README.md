@@ -1,5 +1,4 @@
-
-<p align="center">
+ <p align="center">
   <img src="assets/banner.png" width="100%" alt="Vafa Bara - Developer and Photographer Banner">
 </p>
 
@@ -96,13 +95,15 @@ A Python desktop application designed to help photography instructors **evaluate
 
 **Concepts:** `Regression` `Classification` `Clustering` `Model Evaluation` `Data Preprocessing`
 
-**Application Development & Storage** `CustomTkinter` `piexif` `sqlite` `pillow` `jupyter`
+**Application Development & Storage:** `CustomTkinter` `piexif` `SQLite` `Pillow` `Jupyter`
 
 ### Design & Productivity
 
 <p>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Adobe Lightroom">
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
 </p>
 
 ---
@@ -114,6 +115,14 @@ I also work on **photography and graphic design projects**, including street pho
 ### 📸 Photography Portfolio
 
 👉 **[Explore my Behance portfolio](https://www.behance.net/vafabara)**
+
+---
+
+## 📜 Certificates & Licenses
+
+- [**Python Certificate**](assets/python.png)
+- **Machine Learning Certificate**
+- **Deep Learning Certificate**
 
 ---
 

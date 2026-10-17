@@ -1,4 +1,5 @@
- <p align="center">
+
+<p align="center">
   <img src="assets/banner.png" width="100%" alt="Vafa Bara - Developer and Photographer Banner">
 </p>
 
@@ -39,13 +40,17 @@ A Python desktop application designed to help photography instructors **evaluate
 - [**Heart Disease Classification**](https://github.com/vafabara/Heart-Disease-Classification)
 - [**Tehran House Price Regression**](https://github.com/vafabara/Tehran-House-Price-Regression)
 - [**Customer Segmentation**](https://github.com/vafabara/Customer-Segmentation-clustering)
-- [**CineMacth recommender**](https://github.com/vafabara/CineMacth)
+- [**CineMatch Recommender**](https://github.com/vafabara/CineMacth)
 
 *More projects coming soon...*
 
 </td>
 </tr>
 </table>
+
+### 🧩 Side Projects
+
+[PixelCrypt](https://github.com/vafabara/PixelCrypt) — [TaskFlow](https://github.com/vafabara/TaskFlow) — [DotArt](https://github.com/vafabara/DotArt)
 
 ---
 
@@ -141,4 +146,3 @@ I also work on **photography and graphic design projects**, including street pho
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
-

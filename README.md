@@ -96,23 +96,7 @@ A Python desktop application designed to help photography instructors **evaluate
 
 **Concepts:** `Regression` `Classification` `Clustering` `Model Evaluation` `Data Preprocessing`
 
-### Application Development & Storage
-
-<table>
-<tr>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" alt="SQLite"><br><strong>SQLite</strong>
-</td>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pillow/pillow-original.svg" width="45" alt="Pillow"><br><strong>Pillow</strong>
-</td>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" alt="Jupyter"><br><strong>Jupyter</strong>
-</td>
-</tr>
-</table>
-
-**Additional Libraries:** `CustomTkinter` `piexif`
+**Application Development & Storage** `CustomTkinter` `piexif` `sqlite` `pillow` `jupyter`
 
 ### Design & Productivity
 

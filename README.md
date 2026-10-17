@@ -29,7 +29,7 @@ A Python desktop application designed to help photography instructors **evaluate
 
 **Tech:** Python · Pillow · piexif · CustomTkinter · SQLite · Pandas
 
-> ✅ **v1.0.0 released** — First stable release.
+> ✅ **v1.1.0 released**
 
 </td>
 <td width="50%" valign="top">

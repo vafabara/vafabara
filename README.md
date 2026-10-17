@@ -39,6 +39,7 @@ A Python desktop application designed to help photography instructors **evaluate
 - [**Heart Disease Classification**](https://github.com/vafabara/Heart-Disease-Classification)
 - [**Tehran House Price Regression**](https://github.com/vafabara/Tehran-House-Price-Regression)
 - [**Customer Segmentation**](https://github.com/vafabara/Customer-Segmentation-clustering)
+- [**CineMacth recommender**](https://github.com/vafabara/CineMacth)
 
 *More projects coming soon...*
 

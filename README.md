@@ -120,9 +120,7 @@ I also work on **photography and graphic design projects**, including street pho
 
 ## 📜 Certificates & Licenses
 
-- [**Python Certificate**](assets/python.png)
-- **Machine Learning Certificate**
-- **Deep Learning Certificate**
+- [**Python Certificate**](assets/python.png) - [**Machine Learning Certificate**](assets/ML.png) - **Deep Learning Certificate**
 
 ---
 

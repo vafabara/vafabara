@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🐍 Junior Python Developer
+- 🐍 Python Developer
 - 🤖 Interested in Artificial Intelligence and Machine Learning
 - 📷 Photographer and Graphic Designer
 - 🛠️ Building Python applications and machine learning projects

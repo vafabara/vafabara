@@ -144,6 +144,9 @@ I also work on **photography and graphic design projects**, including street pho
   <a href="https://github.com/vafabara">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://www.linkedin.com/in/vafa-baradaran-083186425">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="https://www.behance.net/vafabara">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
   </a>

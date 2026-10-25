@@ -6,7 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Junior+Python+Developer;Computer+Engineering+Student;Machine+Learning+%26+AI+Enthusiast;Photographer+%26+Graphic+Designer" alt="Typing SVG">
 </p>
 
----
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="">
+</p>
 
 ## 🧑‍💻 About Me
 
@@ -15,7 +17,9 @@
 - 📷 Photographer and Graphic Designer
 - 🛠️ Building Python applications and machine learning projects
 
----
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="">
+</p>
 
 ## 🚀 What I'm Working On
 
@@ -51,7 +55,9 @@ A Python desktop application designed to help photography instructors **evaluate
 
 [PixelCrypt](https://github.com/vafabara/PixelCrypt) — [TaskFlow](https://github.com/vafabara/TaskFlow) — [DotArt](https://github.com/vafabara/DotArt)
 
----
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="">
+</p>
 
 ## 🛠️ Technical Skills
 
@@ -106,7 +112,9 @@ A Python desktop application designed to help photography instructors **evaluate
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
 </p>
 
----
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="">
+</p>
 
 ## 🎨 Photography & Design
 
@@ -116,13 +124,19 @@ I also work on **photography and graphic design projects**, including street pho
 
 👉 **[Explore my Behance portfolio](https://www.behance.net/vafabara)**
 
----
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="">
+</p>
 
 ## 📜 Certificates & Licenses
 
-- [**Python Certificate**](assets/python.png) - [**Machine Learning Certificate**](assets/ML.png) - **Deep Learning Certificate**
+- [**Python Certificate**](assets/python.png)
+- [**Machine Learning Certificate**](assets/ML.png)
+- **Deep Learning Certificate**
 
----
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="">
+</p>
 
 ## 📫 Connect With Me
 

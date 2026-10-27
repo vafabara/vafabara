@@ -12,10 +12,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🐍 Python Developer
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 📷 Photographer and Graphic Designer
-- 🛠️ Building Python applications and machine learning projects
+My curiosity turned into a passion for **Python**, building projects, and exploring **AI** and **ML**. I believe in learning by doing, staying consistent, and turning ideas into reality.
+
+Beyond code, I'm passionate about **photography** and **design**, where creativity meets problem-solving.
+
+📸 **PhotoGrade** is my original idea, built from scratch. I hope it becomes a useful tool for photography teachers and students.
 
 <p align="center">
   <img src="assets/divider.svg" width="100%" alt="">

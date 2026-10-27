@@ -63,45 +63,61 @@ A Python desktop application designed to help photography instructors **evaluate
 
 ### Languages & Development
 
-<table>
-<tr>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"><br><strong>Python</strong>
-</td>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"><br><strong>Git</strong>
-</td>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"><br><strong>GitHub</strong>
-</td>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code"><br><strong>VS Code</strong>
-</td>
-</tr>
-</table>
-
-### Data Analysis & Machine Learning
+<p align="center">
+  <img src="assets/section-languages.svg" width="100%" alt="Languages and Development">
+</p>
 
 <table>
 <tr>
 <td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" alt="NumPy"><br><strong>NumPy</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"><br>
+<strong>Python ⭐</strong>
 </td>
 <td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" alt="Pandas"><br><strong>Pandas</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"><br>
+<strong>Git</strong>
 </td>
 <td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" alt="Matplotlib"><br><strong>Matplotlib</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"><br>
+<strong>GitHub</strong>
 </td>
 <td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" alt="Scikit-learn"><br><strong>Scikit-learn</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code"><br>
+<strong>VS Code</strong>
 </td>
 </tr>
 </table>
 
-**Concepts:** `Regression` `Classification` `Clustering` `Model Evaluation` `Data Preprocessing`
+<p align="center">
+  <img src="assets/section-data.svg" width="100%" alt="Data Analysis and Machine Learning">
+</p>
 
-**Application Development & Storage:** `CustomTkinter` `piexif` `SQLite` `Pillow` `Jupyter`
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" alt="NumPy"><br>
+<strong>NumPy ⭐</strong>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" alt="Pandas"><br>
+<strong>Pandas ⭐</strong>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" alt="Matplotlib"><br>
+<strong>Matplotlib ⭐</strong>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" alt="Scikit-learn"><br>
+<strong>Scikit-learn ⭐</strong>
+</td>
+</tr>
+</table>
+
+**Machine Learning Concepts:** `Regression` `Classification` `Clustering` `Model Evaluation` `Data Preprocessing`
+
+**ML Algorithms:** `KNN` `SVM` `Logistic Regression` `Decision Trees` `K-Means` `DBSCAN` `Hierarchical Clustering`
+
+**Application Development & Storage:** `CustomTkinter` `Pillow` `piexif` `SQLite` `Jupyter`
 
 ### Design & Productivity
 

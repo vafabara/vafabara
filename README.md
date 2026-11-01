@@ -28,7 +28,7 @@ Beyond code, I'm passionate about **photography** and **design**, where creativi
 <tr>
 <td width="50%" valign="top">
 
-### 📷 [PhotoGrade](https://github.com/vafabara/Photography-Grading-Assistant)
+### 📷 [PhotoGrade](https://github.com/vafabara/Photograde)
 
 A Python desktop application designed to help photography instructors **evaluate students' photos using technical criteria and EXIF metadata**.
 
